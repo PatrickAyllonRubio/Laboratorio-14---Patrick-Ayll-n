@@ -1,4 +1,4 @@
-9name: Build and Publish .NET Application (sin despliegue)
+name: Build and Publish .NET Application (sin despliegue)
 
 on:
   push:
