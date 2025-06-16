@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Application", "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Application\Laboratorio 13 - Patrick Hugo Ayllón Rubio.Application.csproj", "{35F3AB1F-CA49-4AF2-BECF-CA7FE3C4109A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Infrastructure", "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Infrastructure\Laboratorio 13 - Patrick Hugo Ayllón Rubio.Infrastructure.csproj", "{61F954EC-CFEB-4CDB-9476-B4A407E6982B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Api", "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Api\Laboratorio 13 - Patrick Hugo Ayllón Rubio.Api.csproj", "{6A660F28-21F7-4770-999B-1716C851ABF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Domain", "Laboratorio 13 - Patrick Hugo Ayllón Rubio.Domain\Laboratorio 13 - Patrick Hugo Ayllón Rubio.Domain.csproj", "{58253CDC-4975-4066-B74E-58BB25E80CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F3AB1F-CA49-4AF2-BECF-CA7FE3C4109A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F3AB1F-CA49-4AF2-BECF-CA7FE3C4109A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F3AB1F-CA49-4AF2-BECF-CA7FE3C4109A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F3AB1F-CA49-4AF2-BECF-CA7FE3C4109A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F954EC-CFEB-4CDB-9476-B4A407E6982B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F954EC-CFEB-4CDB-9476-B4A407E6982B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F954EC-CFEB-4CDB-9476-B4A407E6982B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F954EC-CFEB-4CDB-9476-B4A407E6982B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A660F28-21F7-4770-999B-1716C851ABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A660F28-21F7-4770-999B-1716C851ABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A660F28-21F7-4770-999B-1716C851ABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A660F28-21F7-4770-999B-1716C851ABF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58253CDC-4975-4066-B74E-58BB25E80CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58253CDC-4975-4066-B74E-58BB25E80CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58253CDC-4975-4066-B74E-58BB25E80CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58253CDC-4975-4066-B74E-58BB25E80CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <RootNamespace>Laboratorio_13___Patrick_Hugo_Ayllón_Rubio.Application</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DTOs\" />
+      <Folder Include="Features\" />
+      <Folder Include="Interefaces\" />
+      <Folder Include="Services\" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@Laboratorio_13___Patrick_Hugo_Ayllón_Rubio.Api_HostAddress = http://localhost:5290
+
+GET {{Laboratorio_13___Patrick_Hugo_Ayllón_Rubio.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
